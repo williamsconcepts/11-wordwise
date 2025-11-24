@@ -45,7 +45,7 @@ function App() {
             index
             element={<CityList cities={cities} isLoading={isLoading} />}
           />
-          <Route path="cities/:id" element={<City />} />
+         
           <Route
             path="cities"
             element={<CityList cities={cities} isLoading={isLoading} />}
