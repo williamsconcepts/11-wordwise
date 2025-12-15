@@ -1,7 +1,7 @@
 import { createContext, useState, useEffect } from 'react';
 import { useContext } from 'react';
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = 'http://localhost:9000';
 
 const CitiesContext = createContext();
 
@@ -18,7 +18,7 @@ function CitiesProvider({ children }) {
         const data = await res.json();
         setCities(data);
       } catch {
-        alert("There was an error loading the cities.");
+        alert('There was an error loading the cities.');
       } finally {
         setIsLoading(false);
       }
@@ -28,12 +28,12 @@ function CitiesProvider({ children }) {
 
   async function getCity(id) {
     try {
-      setIsLoading(true);
+      setIsLoading(false);
       const res = await fetch(`${BASE_URL}/cities/${id}`);
       const data = await res.json();
       setCurrentCity(data);
     } catch {
-      alert("There was an error loading the cities.");
+      alert('There was an error loading the cities.');
     } finally {
       setIsLoading(false);
     }
@@ -55,9 +55,9 @@ function CitiesProvider({ children }) {
 
 function useCities() {
   const context = useContext(CitiesContext);
-  if(context === undefined) throw new Error("useCities must be used within a CitiesProvider");
+  if (context === undefined)
+    throw new Error('useCities must be used within a CitiesProvider');
   return context;
 }
-
 
 export { CitiesProvider, useCities };
