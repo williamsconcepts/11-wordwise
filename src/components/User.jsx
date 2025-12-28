@@ -1,7 +1,6 @@
-import { useContext } from 'react';
+import { useNavigate } from 'react-router-dom';
 import styles from './User.module.css';
 import { useAuth } from '../contexts/FakeAuthContext';
-import { useNavigate } from 'react-router-dom';
 
 const FAKE_USER = {
   name: 'Ebube',
