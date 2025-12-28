@@ -13,147 +13,15 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "c15f",
-      "cityName": "Orhionmwon",
-      "country": "NG",
-      "emoji": "🇳🇬",
-      "date": "2025-12-28T07:04:10.481Z",
-      "notes": "yess",
-      "position": {
-        "lat": 6.380812331938274,
-        "lng": 6.240234375
-      }
-    },
-    {
-      "id": "c01b",
-      "cityName": "Aguero",
-      "country": "ES",
-      "emoji": "🇪🇸",
-      "date": "2025-12-28T07:09:05.457Z",
-      "notes": "test",
-      "position": {
-        "lat": 42.342305278572816,
-        "lng": -0.81298828125
-      }
-    },
-    {
-      "id": "72b7",
-      "cityName": "Maatarka",
+      "id": "a0fe",
+      "cityName": "Bitit",
       "country": "MA",
       "emoji": "🇲🇦",
-      "date": "2025-12-28T07:12:07.999Z",
-      "notes": "fg",
-      "position": {
-        "lat": 33.46810795527896,
-        "lng": -2.5268554687500004
-      }
-    },
-    {
-      "id": "ce5a",
-      "cityName": "Maatarka",
-      "country": "MA",
-      "emoji": "🇲🇦",
-      "date": "2025-12-28T07:12:07.999Z",
-      "notes": "fg",
-      "position": {
-        "lat": 33.46810795527896,
-        "lng": -2.5268554687500004
-      }
-    },
-    {
-      "id": "2dee",
-      "cityName": "Sidi M Hamed  Ben La",
-      "country": "MA",
-      "emoji": "🇲🇦",
-      "date": "2025-12-28T07:12:07.999Z",
-      "notes": "fg",
-      "position": {
-        "lat": 34.252676117101515,
-        "lng": -4.680175781250001
-      }
-    },
-    {
-      "id": "2d49",
-      "cityName": "Oulad Said L Oued",
-      "country": "MA",
-      "emoji": "🇲🇦",
-      "date": "2025-12-28T07:14:35.385Z",
+      "date": "2025-12-28T07:35:45.346Z",
       "notes": "",
       "position": {
-        "lat": 32.657875736955305,
-        "lng": -6.39404296875
-      }
-    },
-    {
-      "id": "c9df",
-      "cityName": "Gao",
-      "country": "ML",
-      "emoji": "🇲🇱",
-      "date": "2025-12-28T07:16:35.669Z",
-      "notes": "",
-      "position": {
-        "lat": 15.961329081596647,
-        "lng": -0.3515625
-      }
-    },
-    {
-      "id": "1da6",
-      "cityName": "Moroeni",
-      "country": "RO",
-      "emoji": "🇷🇴",
-      "date": "2025-12-28T07:19:25.000Z",
-      "notes": "",
-      "position": {
-        "lat": 45.213003555993964,
-        "lng": 25.488281250000004
-      }
-    },
-    {
-      "id": "7cfb",
-      "cityName": "Ust’-Kulomskiy Rayon",
-      "country": "RU",
-      "emoji": "🇷🇺",
-      "date": "2025-12-28T07:21:06.448Z",
-      "notes": "",
-      "position": {
-        "lat": 62.51231793838694,
-        "lng": 54.66796875000001
-      }
-    },
-    {
-      "id": "e440",
-      "cityName": "Bol’sheglushitskiy Rayon",
-      "country": "RU",
-      "emoji": "🇷🇺",
-      "date": "2025-12-28T07:23:57.791Z",
-      "notes": "",
-      "position": {
-        "lat": "52.26815737376817",
-        "lng": "50.44921875000001"
+        "lat": "33.8339199536547",
+        "lng": "-5.141601562500001"
       }
     }
   ]
