@@ -14,6 +14,6 @@ module.exports = {
   rules: {
     'react/prop-types': 0,
     'no-unused-vars': 0,
-    allowEmptyCatch: 1,
+    allowEmptyCatch: true,
   },
 };
